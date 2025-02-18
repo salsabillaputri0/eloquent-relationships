@@ -35,6 +35,36 @@
                             <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
                             <th>Komentar</th>
                         </tr>
+                        <tr>
+                            <!-- Kolom untuk judul post -->
+                            <th>Tugas Sekolah</th>
+                            <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
+                            <th>Matematika</th>
+                        </tr>
+                        <tr>
+                            <!-- Kolom untuk judul post -->
+                            <th>Tugas Sekolah</th>
+                            <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
+                            <th>B.Indonesia</th>
+                        </tr>
+                        <tr>
+                            <!-- Kolom untuk judul post -->
+                            <th>Tugas Sekolah</th>
+                            <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
+                            <th>B.Inggris</th>
+                        </tr>
+                        <tr>
+                            <!-- Kolom untuk judul post -->
+                            <th>Tugas Sekolah</th>
+                            <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
+                            <th>Produktif</th>
+                        </tr>
+                        <tr>
+                            <!-- Kolom untuk judul post -->
+                            <th>Tugas Sekolah</th>
+                            <!-- Kolom untuk menampilkan komentar-komentar dari setiap post -->
+                            <th>P.Web</th>
+                        </tr>
                     </thead>
                     <tbody>
                         <!-- Iterasi untuk menampilkan setiap post dengan data dari $posts -->
